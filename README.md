@@ -14,9 +14,21 @@ Input is an array of unique characters along with their frequency of occurrences
  
 >Create a new internal node with a frequency equal to the sum of the two nodes frequencies. Make the first extracted node as its left child and the other extracted node as its right child. Add this node to the min heap.
 >Repeat steps#2 and #3 until the heap contains only one node. The remaining node is the root node and the tree is complete.
->
-> First Header  | Second Header
-> ------------- | -------------
-> Content Cell  | Content Cell
-> Content Cell  | Content Cell
->> ![Working](https://github.com/aadityamittal/data-compression/blob/main/Screen%20Shot%2010-29-2021%20at%2011.11%20AM.png)
+
+
+
+
+Character     | Frequency
+------------- | -------------
+       c      | 12
+       d      | 13
+ Internal Node| 14
+       e      | 16
+       f      | 45
+       
+
+>#Algorithm:
+> ![Algorithm](https://media.geeksforgeeks.org/wp-content/cdn-uploads/fig-6-300x167.jpg)
+
+> #My GUI Based Application:
+> ![Working](https://github.com/aadityamittal/data-compression/blob/main/Screen%20Shot%2010-29-2021%20at%2011.11%20AM.png)
