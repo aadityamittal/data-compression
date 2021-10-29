@@ -27,8 +27,10 @@ Character     | Frequency
        f      | 45
        
 
->#Algorithm:
+#Algorithm:
+
 > ![Algorithm](https://media.geeksforgeeks.org/wp-content/cdn-uploads/fig-6-300x167.jpg)
 
-> #My GUI Based Application:
+#My GUI Based Application:
+
 > ![Working](https://github.com/aadityamittal/data-compression/blob/main/Screen%20Shot%2010-29-2021%20at%2011.11%20AM.png)
