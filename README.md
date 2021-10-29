@@ -22,7 +22,7 @@ Character     | Frequency
 ------------- | -------------
        c      | 12
        d      | 13
- Internal Node| 14
+       in     | 14
        e      | 16
        f      | 45
        
